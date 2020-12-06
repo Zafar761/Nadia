@@ -56,10 +56,10 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mzafar
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; zafarkhan4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+Facebook id:https://www.facebook.com/faiyaz.ahmad.9237
+
+WhatsApp 03410870207
+
 \033[1;91m======================================="""
 
 def tik():
@@ -87,8 +87,8 @@ print  """\033[1;91m=======================================
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = ZAFAR
-CorrectPassword = LFG007
+CorrectUsername = "ZAFAR"
+CorrectPassword = "LFG007"
 
 loop = 'true'
 while (loop == 'true'):
